@@ -12,7 +12,7 @@ Welcome to the Navok E-commerce project! This simple web development project sho
 
 ## Demo
 
-Check out the live demo of the project: [Navok E-commerce](https://skavi7904.github.io/E-commerce/)
+Check out the live demo of the project: [Navok E-commerce](https://e-commerce-navy-three-28.vercel.app/)
 
 ## Features
 
